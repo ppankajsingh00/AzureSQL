@@ -100,5 +100,6 @@
     <Build Include="SalesLT\Sequences\SalesOrderNumber.sql" />
     <Build Include="dbo\Tables\Test.sql" />
     <Build Include="dbo\Tables\Test2.sql" />
+    <Build Include="dbo\Tables\Test3.sql" />
   </ItemGroup>
 </Project>
